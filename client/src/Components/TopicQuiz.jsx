@@ -22,7 +22,7 @@ export const TopicQuiz = () => {
               <div className="w-3/5 h-full bg-rgb(27,169,76)">
                 <h1 className="pt-12 pl-16 topicdivh1 ">HTML</h1>
               </div>
-              <img className="w-2/5  rounded-2xl" src="/html-5.gif" alt="" />
+              <img className="w-2/5  rounded-2xl" src="/html.png" alt="" />
             </div>
           </Link>
         ) : (
@@ -32,7 +32,7 @@ export const TopicQuiz = () => {
               <div className="w-3/5 h-full bg-rgb(27,169,76)">
                 <h1 className="pt-12 pl-16 topicdivh1 ">HTML</h1>
               </div>
-              <img className="w-2/5  rounded-2xl" src="/html-5.gif" alt="" />
+              <img className="w-2/5  rounded-2xl" src="/html.png" alt="" />
             </div>
           </Link>
         )}
@@ -45,7 +45,7 @@ export const TopicQuiz = () => {
               </div>
               <img
                 className="w-2/5 mr-0  rounded-2xl"
-                src="./css3.gif"
+                src="./css3.png"
                 alt=""
               />
             </div>
@@ -59,7 +59,7 @@ export const TopicQuiz = () => {
               </div>
               <img
                 className="w-2/5 mr-0  rounded-2xl"
-                src="./css3.gif"
+                src="./css3.png"
                 alt=""
               />
             </div>
@@ -74,7 +74,7 @@ export const TopicQuiz = () => {
               </div>
               <img
                 className="w-2/5 rounded-2xl "
-                src="./javascript.gif"
+                src="./jslogo.png"
                 alt=""
               />
             </div>
@@ -88,7 +88,7 @@ export const TopicQuiz = () => {
               </div>
               <img
                 className="w-2/5 rounded-2xl "
-                src="./javascript.gif"
+                src="./jslogo.png"
                 alt=""
               />
             </div>
@@ -102,7 +102,7 @@ export const TopicQuiz = () => {
               <div className="w-3/5 h-full bg-rgb(27,169,76)">
                 <h1 className="pt-12 pl-16 topicdivh1">React</h1>
               </div>
-              <img className="w-2/5 rounded-2xl " src="./react.gif" alt="" />
+              <img className="w-2/5 rounded-2xl " src="./react.png" alt="" />
             </div>
           </Link>
         ) : (
@@ -112,7 +112,7 @@ export const TopicQuiz = () => {
               <div className="w-3/5 h-full bg-rgb(27,169,76)">
                 <h1 className="pt-12 pl-16 topicdivh1">React</h1>
               </div>
-              <img className="w-2/5 rounded-2xl " src="./react.gif" alt="" />
+              <img className="w-2/5 rounded-2xl " src="./react.png" alt="" />
             </div>
           </Link>
         )}
